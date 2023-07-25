@@ -41,6 +41,7 @@ extra/bench-gg.txt
 models/*.mlmodel
 models/*.mlmodelc
 models/*.mlpackage
+models/ggml-small.bin
 bindings/java/.gradle/
 bindings/java/.idea/
 .idea/
